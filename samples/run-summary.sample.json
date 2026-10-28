@@ -1,0 +1,18 @@
+{
+  "runId": "1761636000000",
+  "clientId": "example-001",
+  "agencyName": "Example Recruitment",
+  "startTime": "2026-10-28T06:00:03.000Z",
+  "endTime": "2026-10-28T06:14:41.000Z",
+  "totalDuration": "14m 38s",
+  "jobsDiscovered": 142,
+  "companiesDeduped": 118,
+  "marketsAnalyzed": 6,
+  "companiesEnriched": 96,
+  "candidatesScored": 61,
+  "intelligenceSynthesized": 96,
+  "pdfGenerated": 0,
+  "leadsWritten": 96,
+  "digestSent": false,
+  "errors": []
+}

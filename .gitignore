@@ -1,0 +1,18 @@
+# Secrets — never commit
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.cert
+
+# Per-deployment client config (copy client-config.example.json)
+client-config.json
+
+# Runtime output
+bdd/reports/
+*.log
+
+# Build / system
+node_modules/
+.DS_Store

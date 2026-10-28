@@ -1,0 +1,34 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-03-28T20:45:00Z",
+  "changelog": [
+    {
+      "version": "1.0.0",
+      "date": "2026-03-28",
+      "changes": [
+        "Initial BDD spec — 11 feature files covering full pipeline",
+        "Covers: job discovery, dedup, market context, enrichment, candidate scoring, synthesis, PDF, Airtable, digest email, error resilience, tier logic",
+        "Test framework: Cucumber.js with mock API support",
+        "Versioning: semver with changelog and rollback support"
+      ]
+    }
+  ],
+  "featureFiles": [
+    "01-job-discovery.feature",
+    "02-deduplication.feature",
+    "03-market-context.feature",
+    "04-enrichment.feature",
+    "05-candidate-scoring.feature",
+    "06-synthesis.feature",
+    "07-pdf-generation.feature",
+    "08-airtable.feature",
+    "09-digest-email.feature",
+    "10-error-resilience.feature",
+    "11-tier-logic.feature"
+  ],
+  "totalScenarios": 95,
+  "coverage": {
+    "steps": ["1-discovery", "2-dedup", "3-context", "4-enrichment", "5-candidates", "6-synthesis", "7-pdf", "8-airtable", "9-digest", "10-ops"],
+    "crossCutting": ["tier-gating", "error-resilience", "rate-limiting", "caching", "test-mode"]
+  }
+}

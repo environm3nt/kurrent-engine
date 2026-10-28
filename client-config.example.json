@@ -1,0 +1,29 @@
+{
+  "clientId": "example-001",
+  "agencyName": "Example Recruitment",
+  "logoUrl": "",
+  "brandPrimaryHex": "#0A1F8F",
+  "brandSecondaryHex": "#FFFFFF",
+  "salesRepName": "Your Name",
+  "salesRepEmail": "you@example.com",
+  "agencyPhone": "",
+  "agencyWebsite": "example.com",
+  "whiteLabel": true,
+  "targetRoles": [
+    { "title": "Legal Assistant", "function": "Legal", "seniority": "IC" },
+    { "title": "Paralegal", "function": "Legal", "seniority": "IC" }
+  ],
+  "targetLocations": ["Toronto Ontario Canada"],
+  "maxResultsPerRole": 3,
+  "digestRecipients": {
+    "to": ["your-email@example.com"],
+    "cc": [],
+    "from": "kurrent@kurrentlabs.com",
+    "replyTo": "you@example.com"
+  },
+  "digestSendTime": "07:00",
+  "timezone": "America/Toronto",
+  "airtableBaseId": "YOUR_AIRTABLE_BASE_ID",
+  "storagePreference": "onedrive",
+  "tier": "starter"
+}

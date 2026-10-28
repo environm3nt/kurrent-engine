@@ -1,0 +1,50 @@
+[
+  {
+    "companyName": "Northgate Engineering",
+    "roleTitle": "Senior Structural Engineer",
+    "location": "Toronto Ontario Canada",
+    "source": "LinkedIn",
+    "jobPostingUrl": "https://example.com/jobs/northgate-senior-structural-engineer",
+    "salary": "$120,000 - $155,000",
+    "roleFunction": "Engineering",
+    "roleSeniority": "IC",
+    "workArrangement": "Hybrid",
+    "jobDescriptionSummary": "Lead structural design on bridge and highway projects. P.Eng required, 8+ years, experience with CSA S6."
+  },
+  {
+    "companyName": "Northgate Engineering",
+    "roleTitle": "Senior Structural Engineer",
+    "location": "Toronto Ontario Canada",
+    "source": "Indeed",
+    "jobPostingUrl": "https://example.com/jobs/northgate-senior-structural-engineer-indeed",
+    "salary": "",
+    "roleFunction": "Engineering",
+    "roleSeniority": "IC",
+    "workArrangement": "Hybrid",
+    "jobDescriptionSummary": "Lead structural design on bridge and highway projects. P.Eng required."
+  },
+  {
+    "companyName": "Halcyon Build Corp.",
+    "roleTitle": "Project Manager",
+    "location": "Mississauga Ontario Canada",
+    "source": "LinkedIn",
+    "jobPostingUrl": "https://example.com/jobs/halcyon-project-manager",
+    "salary": "$95,000 - $130,000",
+    "roleFunction": "Construction",
+    "roleSeniority": "Manager",
+    "workArrangement": "On-site",
+    "jobDescriptionSummary": "Run commercial construction projects from award to close-out. PMP preferred, 6+ years."
+  },
+  {
+    "companyName": "Ashford & Vale LLP",
+    "roleTitle": "Paralegal",
+    "location": "Toronto Ontario Canada",
+    "source": "LinkedIn",
+    "jobPostingUrl": "https://example.com/jobs/ashford-vale-paralegal",
+    "salary": "",
+    "roleFunction": "Legal",
+    "roleSeniority": "IC",
+    "workArrangement": "Hybrid",
+    "jobDescriptionSummary": "Commercial litigation paralegal. 3+ years, document management, e-discovery."
+  }
+]
